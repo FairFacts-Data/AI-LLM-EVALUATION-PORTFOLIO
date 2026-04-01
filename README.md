@@ -1,2 +1,2 @@
 # AI-LLM-EVALUATION-PORTFOLIO
-Portfolio of AI testing and evaluation projects including LLM summarization evaluation, classification testing, hallucination testing, bias testing, and AI evaluation rubrics.
+Portfolio of LLM evaluation projects including summarization, classification, and PII extraction using structured evaluation rubrics, human evaluation methods, and LLM-as-a-judge methodology. This repository documents evaluation datasets, prompts, scoring rubrics, and evaluation results. Additional evaluation projects such as hallucination testing, bias testing, and prompt comparison testing are planned.
